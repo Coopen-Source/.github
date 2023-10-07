@@ -1,22 +1,21 @@
+<h1 align="center"> ♾️ Welcome to <a href="https://coopensource.targino.com.br/">Coopen Science</a> ♾️</h1>
 
-<h1 align="center"> ♾️ Bem vindo à <a href=“https://coopensource.targino.com.br/“>Coopen Science</a> ♾️</h1>
-
-<b>Uma plataforma para cientistas, pesquisadores e entusiastas da ciência compartilharem seus projetos de ciência aberta com o mundo.</b>
-<h4 align="center"><i> Compartilhando conhecimento, construindo colaboração e promovendo a inovação.</i></h4>
+<b>A platform for scientists, researchers, and science enthusiasts to share their open science projects with the world.</b>
+<h4 align="center"><i>Sharing knowledge, building collaboration, and fostering innovation.</i></h4>
 
 #
-<h3 align="center">Esse projeto foi desenvolvido durante o Challenge Nasa Space Apps 2023</h3>
+<h3 align="center">This project was developed during the NASA Space Apps 2023 Challenge</h3>
 
-- Encontre e contribua com projetos em todo o mundo;
-- Visualize com facilidade os projetos que mais combinam com sua área de interesse;
-- Cadastre seus projetos e encontre colaboradores interessados;
-- Mantenha-se atualizado sobre novos projetos que estão mudando o rumo da ciência.
+- Discover and contribute to projects worldwide.
+- Easily view projects that align with your area of interest.
+- Register your projects and find interested collaborators.
+- Stay updated on new projects that are shaping the course of science.
 
   
 #
 
-Utilizamos JavaScript, Python e o banco de dados PostgreSQL no desenvolvimento deste projeto, que busca solucionar o desafio proposto pela NASA:
+We used JavaScript, Python, and the PostgreSQL database in the development of this project, aimed at addressing the challenge posed by NASA:
 
 <b>Marketplace for Open Science Projects</b>
 
-Existem diversos projetos e ferramentas de ciência aberta e código aberto, porém, até o momento, não existe uma maneira eficiente de conectar os criadores de projetos a colaboradores interessados, que possuam as habilidades necessárias para contribuir. Nosso desafio consiste em criar uma solução que facilite a busca por projetos de código aberto para aqueles que desejam colaborar, bem como para os criadores de projetos que necessitam de colaboradores qualificados, proporcionando um meio eficaz de encontrarem-se e se comunicarem.
+While there are numerous open science and open-source projects and tools, there is currently no efficient way to connect project creators with interested collaborators possessing the necessary skills to contribute. Our challenge is to create a solution that streamlines the search for open-source projects for those who wish to collaborate, as well as for project creators in need of qualified collaborators, providing an effective means for them to find and communicate with each other.
