@@ -1,5 +1,5 @@
 
-<h1 align="center"> ♾️ Bem vindo à <a href=“https://coopensource.targino.com.br/“>Coopen Source</a> ♾️</h1>
+<h1 align="center"> ♾️ Bem vindo à <a href=“https://coopensource.targino.com.br/“>Coopen Science</a> ♾️</h1>
 
 <b>Uma plataforma para cientistas, pesquisadores e entusiastas da ciência compartilharem seus projetos de ciência aberta com o mundo.</b>
 <h4 align="center"><i> Compartilhando conhecimento, construindo colaboração e promovendo a inovação.</i></h4>
